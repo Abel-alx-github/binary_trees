@@ -1,3 +1,9 @@
+/**
+ *binary_tree_delete - frees all nodes of a tree
+ *@tree: pointer to node of tree
+ *
+ */
+
 #include "binary_trees.h"
 #include <stdlib.h>
 
